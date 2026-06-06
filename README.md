@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Incoming+Tax+Analyst+at+EY;Building+ML+Solutions+for+Finance;Financial+Analytics+and+Risk+Intelligence;Machine+Learning+for+Tax+and+Audit+Analytics" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Tax+Analyst;Building+ML+Solutions+for+Finance;Financial+Analytics+and+Risk+Intelligence;Machine+Learning+for+Tax+and+Audit+Analytics" />
 
 <br><br>
 
