@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/Jiyanashibi/Jiyanashibi/blob/main/banner.png" width="100%" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Financial+Data+Analytics+%F0%9F%93%8A;Fraud+Detection+%26+Risk+Analytics+%F0%9F%94%8D;Machine+Learning+for+Finance+%F0%9F%A4%96;Incoming+Tax+Analyst+at+EY+%F0%9F%92%BC" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=250&section=header&text=Jiyana%20Shibi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Financial%20Data%20Analytics%20%7C%20Fraud%20Detection%20%7C%20Machine%20Learning&descAlignY=58&descSize=18" width="100%" />
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Incoming+Tax+Analyst+at+EY;Building+ML+Solutions+for+Finance;Financial+Analytics+and+Risk+Intelligence;Machine+Learning+for+Tax+and+Audit+Analytics" />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Jiyanashibi&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
 
@@ -25,7 +25,7 @@ I build analytics solutions focused on:
 - Audit intelligence systems
 - Machine learning for risk analysis
 
-Unlike generic data science portfolios, my projects are designed around practical financial workflows, business relevance, and decision-oriented insights.
+Unlike generic machine learning portfolios, my projects are designed around practical financial workflows and business-focused insights.
 
 ---
 
@@ -96,7 +96,7 @@ Every repository in this profile follows a consistent standard:
 - Business-readable insights
 - Practical analytics applications
 
-I approach projects as though they will be reviewed by both engineers and decision-makers.
+I approach projects as though they will be reviewed by both technical and business stakeholders.
 
 ---
 
@@ -119,10 +119,6 @@ I approach projects as though they will be reviewed by both engineers and decisi
 <div align="center">
 
 ### Building data science solutions that make business sense.
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jiyanashibi&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
