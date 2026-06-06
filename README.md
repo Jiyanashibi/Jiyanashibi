@@ -118,7 +118,7 @@ I approach projects as though they will be reviewed by both technical and busine
 
 <div align="center">
 
-### Building data science solutions that make business sense.
+### Building Data Science Solutions That Make Business Sense.
 
 </div>
 
